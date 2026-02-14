@@ -10,6 +10,6 @@ Ce projet applique des techniques de Data Mining et de Réseaux de Neurones pour
 
 Lenguaje: Python 3.12 
 
-Librerías: Pandas, Scikit-learn, TensorFlow/Keras +2
+Librerías: Pandas, BeautifulSoup, html, json, Scikit-learn
 
 Datos: LNR Official Stats (Top 14)
