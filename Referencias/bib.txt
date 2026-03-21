@@ -1,0 +1,75 @@
+@article{bremner2013retrospective,
+  title={A Retrospective Evaluation Of Team Performance Indicators In Rugby Union},
+  author={Bremner, Steven and Robinson, Gemma and Williams, Morgan D},
+  journal={International Journal of Performance Analysis in Sport},
+  volume={13},
+  number={2},
+  pages={461--473},
+  year={2013},
+  publisher={Taylor \& Francis},
+  url={https://www.tandfonline.com/doi/abs/10.1080/24748668.2013.11868662},
+  doi={https://doi.org/10.1080/24748668.2013.11868662}
+} % [1]
+
+@article{cheradame2025expected,
+  title={Expected game value (xGV): a novel approach for strategic decision-making in rugby union},
+  author={Ch{\'e}radame, J{\'e}r{\'e}my and Carling, Christopher and Pisseloup, Manon and Pinczon du Sel, Nolwenn},
+  journal={International Journal of Performance Analysis in Sport},
+  volume={25},
+  number={5},
+  pages={841--856},
+  year={2025},
+  publisher={Taylor \& Francis},
+  url={https://www.tandfonline.com/doi/full/10.1080/24748668.2024.2448051},
+  doi={https://doi.org/10.1080/24748668.2024.2448051}
+} % [2]
+
+@article{colomer2020performance,
+  title={Performance Analysis in Rugby Union: a Critical Systematic Review},
+  author={Colomer, Carmen ME and Pyne, David B and Mooney, Mitch and McKune, Andrew and Serpell, Benjamin G},
+  journal={Sports Medicine - Open},
+  volume={6},
+  number={1},
+  pages={4},
+  year={2020},
+  publisher={Springer},
+  url={https://link.springer.com/article/10.1186/s40798-019-0232-x},
+  doy={https://doi.org/10.1186/s40798-019-0232-x}
+} % [3]
+
+@article{kvasnytsya2024team,
+  title={Team Performance Indicators That Predict Match Outcome in Rugby Union},
+  author={Kvasnytsya, Oleh and Tyshchenko, Valeria and Latyshev, Mykola and Kvasnytsia, Iryna and Kirsanov, Mykola and Plakhotniuk, Oleg and Buhaiov, Maksym},
+  journal={Pamukkale Journal of Sport Sciences},
+  volume={15},
+  number={1},
+  pages={203--216},
+  year={2024},
+  doi={https://doi.org/10.54141/psbd.1342340},
+  url={https://dergipark.org.tr/en/pub/psbd/article/1342340}
+} % [4]
+
+@article{martinezarastey2025foundations,
+  title={Foundations of expected points in rugby union: A methodological approach},
+  author={Martinez-Arastey, Guillermo and Datson, Naomi and Smith, Neal and Robins, Matthew},
+  journal={Journal of Sports Analytics},
+  volume={11},
+  number={0},
+  pages={1--14},
+  year={2025},
+  publisher={IOS Press},
+  doi={https://doi.org/10.1177/22150218251365220},
+  url={https://journals.sagepub.com/doi/10.1177/22150218251365220}
+} % [5]
+
+@article{weirich2025advancing,
+  title={Advancing NFL win prediction: from Pythagorean formulas to machine learning algorithms},
+  author={Weirich, Caroline and Kim, Jun Woo and Yoon, Youngmin and Jeong, Seunghoon},
+  journal={Frontiers in Sports and Active Living},
+  volume={7},
+  pages={1638446},
+  year={2025},
+  publisher={Frontiers Media SA},
+  url={https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1638446/full},
+  doi={https://doi.org/10.3389/fspor.2025.1638446}
+} % [6]
